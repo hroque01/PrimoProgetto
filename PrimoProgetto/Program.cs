@@ -16,5 +16,6 @@ else
 {   
     Console.WriteLine("sei minorenne");
     var rimanente = 18 - eta;
-    Console.WriteLine("ti mancano ancora " + rimanente + "anni");
+    //Console.WriteLine("ti mancano ancora " + rimanente + "anni");
+    Console.WriteLine($"ti mancano ancora {rimanente} anni");
 }
