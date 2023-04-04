@@ -19,3 +19,7 @@ else
     //Console.WriteLine("ti mancano ancora " + rimanente + "anni");
     Console.WriteLine($"ti mancano ancora {rimanente} anni");
 }
+
+
+string[] mesi = { "gennaio", "febbraio", "marzo" };
+mesi = new string[] { "aprile", "maggio"};
